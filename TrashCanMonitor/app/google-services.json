@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "768803879905",
+    "firebase_url": "https://smart-trash-can-ab512.firebaseio.com",
+    "project_id": "smart-trash-can-ab512",
+    "storage_bucket": "smart-trash-can-ab512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768803879905:android:1d1f4436c78e8784",
+        "android_client_info": {
+          "package_name": "e.rdhoot.trashcanmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768803879905-0labj5j1p1ao8o3ieqsg8is6hjcn10ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyComd-0pML_5e4RqKq6QmOw0-M2baHx8nI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
